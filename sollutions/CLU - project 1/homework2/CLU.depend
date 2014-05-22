@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1400793994 source:c:\users\poseidon4o\desktop\oop-assignment\sollutions\clu - project 1\homework2\src\filter.cpp
+	"filter.h"
+	<cstring>
+
+1400790847 source:c:\users\poseidon4o\desktop\oop-assignment\sollutions\clu - project 1\homework2\src\filter_chain.cpp
+
+1400793275 c:\users\poseidon4o\desktop\oop-assignment\sollutions\clu - project 1\homework2\src\filter.h
+	<iostream>
+
+1400793920 source:c:\users\poseidon4o\desktop\oop-assignment\sollutions\clu - project 1\homework2\src\main.cpp
+	"filter.h"
+	<fstream>
+
